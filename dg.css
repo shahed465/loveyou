@@ -1,0 +1,152 @@
+.hader{
+    background-color: rgb(21, 255, 0);
+color: rgb(23, 24, 26);
+text-align: center;
+box-shadow: 25px -18px 50px 14px rgba(18,237,211,0.75);
+-webkit-box-shadow: 25px -18px 50px 14px rgba(18,237,211,0.75);
+-moz-box-shadow: 25px -18px 50px 14px rgba(18,237,211,0.75);
+border-radius: 24px 24px 24px 24px;
+-webkit-border-radius: 24px 24px 24px 24px;
+-moz-border-radius: 24px 24px 24px 24px;
+border: 7px solid #00cdff;
+.pg {
+color: rgb(247, 243, 243);
+}
+
+}
+body{
+background: linear-gradient(
+    to right,
+    rgb(211, 55, 198),
+    rgba(17, 185, 177, 0.986) 
+);
+
+
+}
+
+.kotha{
+    background-color: rgba(27, 40, 231, 0.63);
+    padding: 0px 10px 15px 10px;
+    border: 7px solid #0fe7d5;
+    background: #5409e0;
+    border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+
+
+
+}
+.kotha p{
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.ai{
+text-align: center;
+background-color: white;
+margin-top: 50px;
+padding: 1px 0px 1px 0px;
+box-shadow: 10px -11px 69px 7px rgba(2,255,255,0.72);
+-webkit-box-shadow: 10px -11px 69px 7px rgba(2,255,255,0.72);
+-moz-box-shadow: 10px -11px 69px 7px rgba(2,255,255,0.72);
+border-radius: 26px 26px 26px 26px;
+-webkit-border-radius: 26px 26px 26px 26px;
+-moz-border-radius: 26px 26px 26px 26px;
+}
+.day{
+    margin-top: 40px;
+text-align: center;
+color: white;
+text-shadow: #010202;
+font-family: 'Courier New', Courier, monospace;
+}
+.chap{
+text-align: center;
+color: rgb(241, 218, 7);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.photo1 {
+    margin-top: 20px;
+margin-left: 130px;
+margin-bottom: 40px;
+}
+
+.kotha2{
+  
+    background-color: rgba(27, 40, 231, 0.63);
+    padding: 0px 10px 15px 10px;
+    border: 7px solid #0fe7d5;
+    background: #06d806;
+    border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+
+}
+
+.kotha2 p{
+padding-top: 5px;
+padding-bottom: 5px;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.photo2 {
+    margin-top: 30px;
+margin-left: 130px;
+margin-bottom: 40px;
+}
+.kotha3{
+    background-color: rgba(27, 40, 231, 0.63);
+    padding: 0px 10px 15px 10px;
+    border: 7px solid #0fe7d5;
+    background: #d83006;
+    border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+
+}
+
+.kotha3 p{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .photo4 {
+        margin-top: 30px;
+    margin-left: 130px;
+    margin-bottom: 40px;
+    }
+.sesh{
+    background-color: rgba(27, 40, 231, 0.63);
+    padding: 0px 10px 15px 10px;
+    border: 7px solid #0fe7d5;
+    background: #9d06d8;
+    border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+
+
+
+
+}
+
+
+
+
+    .sesh p{
+
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+    }
+    .love{
+text-align: center;
+color: aliceblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+
